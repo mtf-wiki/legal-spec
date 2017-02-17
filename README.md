@@ -8,6 +8,7 @@
 - [2008-10-23][]: 公治〔2008〕478 号 公安部治安管理局关于公民手术变性后变更户口登记性别项目有关问题的批复
 - [2009-06-15][]: 变性手术技术管理规范（征求意见稿）
 - [2009-11-20][]: 变性手术技术管理规范（试行）
+- [2017-02-17][]: 性别重置技术管理规范（2017 年版）
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -17,3 +18,4 @@
 [2008-10-23]: https://github.com/mtf-wiki/legal-spec/commit/2008-10-23
 [2009-06-15]: https://github.com/mtf-wiki/legal-spec/commit/2009-06-15
 [2009-11-20]: https://github.com/mtf-wiki/legal-spec/commit/2009-11-20
+[2017-02-17]: https://github.com/mtf-wiki/legal-spec/commit/2017-02-17
