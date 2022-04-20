@@ -12,6 +12,7 @@
 - [2017-08-25][]: 互联网跟帖评论服务管理规定（2017 年版）
 - [2018-12-14][]: 关于印发 ICD-11 中文版的通知
 - [2020-11-23][]: 精神障碍诊疗规范（2020 年版）
+- [2022-04-20][]: 性别重置技术临床应用管理规范（2022 年版）
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -25,3 +26,4 @@
 [2017-08-25]: https://github.com/mtf-wiki/legal-spec/commit/2017-08-25
 [2018-12-14]: https://github.com/mtf-wiki/legal-spec/commit/2018-12-14
 [2020-11-23]: https://github.com/mtf-wiki/legal-spec/commit/2020-11-23
+[2022-04-20]: https://github.com/mtf-wiki/legal-spec/commit/2022-04-20
