@@ -13,6 +13,7 @@
 - [2018-12-14][]: 关于印发 ICD-11 中文版的通知
 - [2020-11-23][]: 精神障碍诊疗规范（2020 年版）
 - [2022-04-20][]: 性别重置技术临床应用管理规范（2022 年版）
+- [2022-11-02][]: 药品网络销售禁止清单（征求意见稿）（第一版）
 
 [2001-01-01]: https://github.com/mtf-wiki/legal-spec/commit/2001-01-01
 [2002-09-04]: https://github.com/mtf-wiki/legal-spec/commit/2002-09-04
@@ -27,3 +28,4 @@
 [2018-12-14]: https://github.com/mtf-wiki/legal-spec/commit/2018-12-14
 [2020-11-23]: https://github.com/mtf-wiki/legal-spec/commit/2020-11-23
 [2022-04-20]: https://github.com/mtf-wiki/legal-spec/commit/2022-04-20
+[2022-11-02]: https://github.com/mtf-wiki/legal-spec/commit/2022-11-02
